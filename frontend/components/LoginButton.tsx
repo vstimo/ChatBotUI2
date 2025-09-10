@@ -1,4 +1,4 @@
-// LoginButton.tsx// React Native component to start the "Log in with PayPal" OAuth flow using the
+// PayPalLoginButton.tsx// React Native component to start the "Log in with PayPal" OAuth flow using the
 // manual button guide you pasted. Uses an external browser + deep link return.
 //
 // ❗ Security note: Exchange the authorization code for tokens on YOUR BACKEND.
